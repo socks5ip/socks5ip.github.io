@@ -8,6 +8,7 @@
 
 ## 站内资源
 
+- [socks5ip-content](https://github.com/socks5ip/socks5ip-content) — 官方内容库（23 家注册指南 + 工具推荐，AI 友好，canonical 指向主站）
 - [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — 命令行代理检测
 - [proxy-resource-hub](https://github.com/socks5ip/proxy-resource-hub) — 代理IP资源与脚本库
 - [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) — 服务商精选清单
